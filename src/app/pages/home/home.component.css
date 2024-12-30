@@ -1,0 +1,27 @@
+.home__container{
+	width: 90%;
+	margin: auto;
+	padding-top: 50px;
+	display: flex;
+
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+}
+/*
+
+	width: 90%; --  tamanho
+	margin: auto; para centralizar os elementos deixando uma margem padrão
+	padding-top: 50px; para desgrudar do topo
+	display: flex;
+
+	justify-content: space-around; com espaço em volta dos conteudo
+	align-items: baseline; alinha os item pela a base
+	flex-wrap: wrap; -- toda vez que um elemento exceder um limite ele vai para próxima linha
+
+
+
+	}
+
+
+*/

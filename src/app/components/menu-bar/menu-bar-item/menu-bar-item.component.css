@@ -1,0 +1,12 @@
+
+a {
+			text-decoration: none;
+			padding: 5px;
+			color: rgb(7, 7, 7);
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		}
+a:hover{
+				color:blue;
+				font-weight: 600;
+}
+
